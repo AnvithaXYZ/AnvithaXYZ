@@ -8,7 +8,7 @@ Here you'll find projects ranging from **NLP-driven Propaganda Detection** to **
 
 ### 🚀 Currently:
 **Data Analyst at Syracuse University**  
-**Learning DataBricks & Advance Spark**
+**Learning DataBricks & Advanced Spark**
 
 ### 📊 Skills:
 - **Languages:** Python, SQL, R
