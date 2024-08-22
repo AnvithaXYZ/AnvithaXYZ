@@ -1,9 +1,10 @@
 # 👋 Hello, I'm Anvitha K Shashidhar!
 
 ## 💻 Data Analyst | Data Science Enthusiast | Problem Solver
-
-This GitHub is a reflection of my journey in **Data Science**, showcasing my diverse skill set, including **Python, R, SQL, and Big Data Technologies** like Hadoop and Google BigQuery. Here you'll find projects ranging from **NLP-driven Propaganda Detection** to **NYC Taxi Trip Data Analysis**, highlighting my capabilities in **Statistical Modeling, Data Visualization**, and **Cloud Computing**.
 I'm passionate about using data to drive insights and decision-making. I specialize in data analysis, predictive modeling, and data visualization to bring data to life. 
+
+This GitHub is a reflection of my journey in **Data Science**, showcasing my diverse skill set, including **Python, R, SQL, and Big Data Technologies** like Hadoop and Google BigQuery. 
+Here you'll find projects ranging from **NLP-driven Propaganda Detection** to **NYC Taxi Trip Data Analysis**, highlighting my capabilities in **Statistical Modeling, Data Visualization**, and **Cloud Computing**.
 
 ### 🚀 Currently:
 **Data Analyst at Syracuse University**  
