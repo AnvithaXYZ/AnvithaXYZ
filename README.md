@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anvitha Shashidhar!
+# 👋 Hello, I'm Anvitha K Shashidhar!
 
 ## 💻 Data Analyst | Data Science Enthusiast | Problem Solver
 
