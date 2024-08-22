@@ -16,12 +16,6 @@ I'm passionate about using data to drive insights and decision-making. I special
 - **Cloud Platforms:** AWS, Azure, Google Cloud
 - **Advanced Analytics:** A/B Testing, Time-series Forecasting, Anomaly Detection
 
-### 🌟 Projects:
-- **Advanced Propaganda Detection:** Propaganda detection in multilingual texts using models like RoBERTa and BERT. Achieved 100% accuracy using RoBERTa.
-- **COVID-19 Data Analysis:** Provided insights on the global pandemic's impact.
-- **Data Analysis for Public Insights:** Unveiling trends and patterns through Twitter data analysis, with applications in media belief analysis.
-- **Optimizing Business Processes:** Predicting inventory demand fluctuations and reducing operational inefficiencies through data-driven solutions.
-
 ### 🔗 Let’s Connect:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anvitha-ks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anvitha-ks/" height="30" width="40" /></a>
